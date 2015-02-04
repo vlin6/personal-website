@@ -1,2 +1,3 @@
-# spr-2015-proj
-Long-term project for the spring 2015 lecture series.
+# Person website
+
+This is the code for my personal website: vlin6.herokuapp.com.
